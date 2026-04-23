@@ -1,3 +1,8 @@
+# Retired as of 23/04/2026.
+
+If you have a lot of robot config it is probably best to git control that and place any joystick configuration there. This is simpler than maintaining a special seperate repo just for joystick config.
+Therefore this has migrated to my other repo ros2_robots (currently microservices branch but that will likely change).
+
 # ros2_joystick_config
 ROS2 joystick configurations for a XEOX Gamepad SL-6556-BK
 
